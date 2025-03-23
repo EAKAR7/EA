@@ -1,0 +1,46 @@
+{
+  "appId": "com.vakifkatilim.personel",
+  "productName": "Personel Yönetim Sistemi",
+  "directories": {
+    "output": "release-builds"
+  },
+  "files": [
+    "dist/**/*",
+    "electron/**/*"
+  ],
+  "extraResources": [
+    {
+      "from": "licenses",
+      "to": "licenses"
+    }
+  ],
+  "win": {
+    "target": [
+      "nsis",
+      "portable"
+    ],
+    "icon": "electron/icon.ico"
+  },
+  "nsis": {
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "shortcutName": "Personel Yönetim Sistemi",
+    "installerIcon": "electron/icon.ico",
+    "uninstallerIcon": "electron/icon.ico",
+    "installerHeaderIcon": "electron/icon.ico",
+    "artifactName": "PersonelYonetimSistemi-Setup.exe",
+    "license": "licenses/license.txt",
+    "include": "installer.nsh"
+  },
+  "portable": {
+    "artifactName": "PersonelYonetimSistemi-Portable.exe"
+  },
+  "publish": [
+    {
+      "provider": "generic",
+      "url": "https://example.com/updates/"
+    }
+  ]
+}

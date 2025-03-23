@@ -1,0 +1,23 @@
+Personel Yönetim Sistemi Lisans Sözleşmesi
+
+Bu yazılım, Vakıf Katılım Bankası Teftiş Kurulu Başkanlığı tarafından geliştirilmiştir.
+
+1. Kullanım Koşulları
+   Bu yazılım, yalnızca Vakıf Katılım Bankası personeli tarafından ve banka içi amaçlar için kullanılabilir.
+
+2. Dağıtım Kısıtlamaları
+   Bu yazılımın banka dışı kişilere dağıtılması, kopyalanması veya paylaşılması yasaktır.
+
+3. Sorumluluk Reddi
+   Bu yazılım "olduğu gibi" sağlanmaktadır ve herhangi bir garanti verilmemektedir.
+   Yazılımın kullanımından doğabilecek herhangi bir sorun veya zarardan Vakıf Katılım Bankası sorumlu tutulamaz.
+
+4. Gizlilik
+   Bu yazılım aracılığıyla işlenen tüm veriler, Vakıf Katılım Bankası'nın gizlilik politikasına tabidir.
+
+5. Güncellemeler
+   Yazılımın güncellemeleri otomatik olarak kontrol edilebilir ve kullanıcıya bildirilir.
+
+Bu lisans sözleşmesini kabul ederek, yukarıdaki koşulları kabul etmiş olursunuz.
+
+© 2023 Vakıf Katılım Bankası. Tüm hakları saklıdır.
